@@ -1,0 +1,109 @@
+﻿body {
+background-color: black;
+}
+
+html *
+
+{
+
+font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+
+h1, h2, h3 {
+color: #000000;
+text-decoration: underline overline;
+text-transform: uppercase;
+}
+
+h1 {
+font-size: 2.5em;
+}
+
+h2 {
+font-size: 1.5em;
+}
+
+h3 {
+font-size: 2.5em;
+}
+
+header {
+background-color: gray;
+color: black;
+border-style: solid;
+border-width: 3px;
+border-radius: 20px;
+
+padding: 30px;
+margin: 30px;
+}
+
+main {
+background-color: gray;
+color: black;
+border-style: solid;
+border-width: 3px;
+border-radius: 20px;
+
+padding: 30px;
+margin: 30px;
+}
+
+footer {
+color: black;
+border-style: solid;
+border-width: 3px;
+border-radius: 20px;
+
+padding: 30px;
+margin: 30px;
+}
+
+img {
+opacity: 0.9;
+width: 650px; height:350px;
+}
+
+nav ul {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+nav ul li {
+display: block;
+color: black;
+border-style: solid;
+border-width: 1px;
+border-radius: 5px;
+padding: 5px;
+margin-right: 20px;
+margin-bottom: 10px;
+}
+
+nav ul li:hover {
+background-color: white;
+}
+
+a {
+text-decoration: none;
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
